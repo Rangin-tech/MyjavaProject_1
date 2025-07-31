@@ -17,4 +17,5 @@ A simple Java-based application to store, manage, and display code snippets. Use
 
 CodeSnippetManager/
 ├── CodeSnippetManager.java # Main program with menu-driven interface
+
 └── Snippet.java # Snippet class holding code title, language, and content
